@@ -1,0 +1,10 @@
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\bin\Debug\PaySafeGen v.2 [Premium].exe.config
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\bin\Debug\PaySafeGen v.2 [Premium].exe
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\bin\Debug\PaySafeGen v.2 [Premium].pdb
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\obj\Debug\PaySafeGen v.2 [Premium].csprojAssemblyReference.cache
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\obj\Debug\PaySafeGen_v._2__Premium_.Form1.resources
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\obj\Debug\PaySafeGen_v._2__Premium_.Properties.Resources.resources
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\obj\Debug\PaySafeGen v.2 [Premium].csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\obj\Debug\PaySafeGen v.2 [Premium].csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\obj\Debug\PaySafeGen v.2 [Premium].exe
+C:\Users\LAPTOP\source\repos\PaySafeGen v.2 [Premium]\PaySafeGen v.2 [Premium]\obj\Debug\PaySafeGen v.2 [Premium].pdb
