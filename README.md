@@ -1,7 +1,7 @@
 # PaySafeCard-Random-Number-Generator
 Random Number Generator with UI in VB .net
 
-Educational purposes demo of generating random numbers and showing them to a log output box.
+Educational purposes demo of generating random numbers and showing them to a output box.
 I'm not responsible for illegal use of the program.
 
 1. Import my project to Visual Studio
