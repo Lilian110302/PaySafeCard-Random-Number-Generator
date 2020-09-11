@@ -88,11 +88,11 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(110, 9);
+            this.label1.Location = new System.Drawing.Point(78, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(246, 17);
+            this.label1.Size = new System.Drawing.Size(277, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "PaySafeGen v.2 [Made by DamianeK]";
+            this.label1.Text = "PaySafeGen v.2 [Made by Your Nickname]";
             // 
             // pictureBox1
             // 
@@ -104,6 +104,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(458, 214);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // panel2
             // 
@@ -126,9 +127,9 @@
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel4.Controls.Add(this.textBox1);
             this.panel4.Controls.Add(this.button2);
-            this.panel4.Location = new System.Drawing.Point(13, 38);
+            this.panel4.Location = new System.Drawing.Point(18, 38);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(405, 145);
+            this.panel4.Size = new System.Drawing.Size(400, 145);
             this.panel4.TabIndex = 5;
             // 
             // textBox1
@@ -149,7 +150,7 @@
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(91, 90);
+            this.button2.Location = new System.Drawing.Point(89, 90);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(231, 40);
             this.button2.TabIndex = 0;
@@ -166,7 +167,6 @@
             this.radioButton5.Name = "radioButton5";
             this.radioButton5.Size = new System.Drawing.Size(53, 21);
             this.radioButton5.TabIndex = 4;
-            this.radioButton5.TabStop = true;
             this.radioButton5.Text = "$50";
             this.radioButton5.UseVisualStyleBackColor = false;
             // 
@@ -179,7 +179,6 @@
             this.radioButton4.Name = "radioButton4";
             this.radioButton4.Size = new System.Drawing.Size(61, 21);
             this.radioButton4.TabIndex = 3;
-            this.radioButton4.TabStop = true;
             this.radioButton4.Text = "$150";
             this.radioButton4.UseVisualStyleBackColor = false;
             // 
@@ -192,7 +191,6 @@
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(61, 21);
             this.radioButton3.TabIndex = 2;
-            this.radioButton3.TabStop = true;
             this.radioButton3.Text = "$100";
             this.radioButton3.UseVisualStyleBackColor = false;
             // 
@@ -205,7 +203,6 @@
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(53, 21);
             this.radioButton2.TabIndex = 1;
-            this.radioButton2.TabStop = true;
             this.radioButton2.Text = "$30";
             this.radioButton2.UseVisualStyleBackColor = false;
             // 
@@ -213,6 +210,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.BackColor = System.Drawing.Color.Transparent;
+            this.radioButton1.Checked = true;
             this.radioButton1.ForeColor = System.Drawing.Color.White;
             this.radioButton1.Location = new System.Drawing.Point(4, 11);
             this.radioButton1.Name = "radioButton1";

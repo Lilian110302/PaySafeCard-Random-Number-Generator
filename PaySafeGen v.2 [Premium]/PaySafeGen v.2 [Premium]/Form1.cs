@@ -54,6 +54,11 @@ namespace PaySafeGen_v._2__Premium_
         {
             Close();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 
